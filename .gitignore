@@ -1,0 +1,6 @@
+BannerMod/BannerMod/kcs2/resources/ship/banner/*.png/*.png
+BannerMod/BannerMod/kcs2/resources/ship/card/*.png/*.png
+assetWorkDir/
+tmp/
+patched/
+orig/
