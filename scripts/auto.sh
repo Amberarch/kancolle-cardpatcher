@@ -10,11 +10,11 @@ export DESTDIR=$ROOTDIR/garbage
 export MODDIR=$ROOTDIR/garbage
 
 function copy_banner(){
-    export DESTDIR=$WORKDIR/banner
-    cd $KCCACHEDIR
+    export DESTDIR=$WORKDIR/card
+    cd $KCCARDDIR
     $SCRIPTDIR/echo.sh
     #Common assets
-    bash $ROOTDIR/fileLists/DDcommon
+    bash $ROOTDIR/fileLists/DD/DDrare
     #TODO: imagemagick
     #$SCRIPTDIR/orig.sh
     #$SCRIPTDIR/move-patched.sh
