@@ -10,8 +10,8 @@ export DESTDIR=$ROOTDIR/garbage
 export MODDIR=$ROOTDIR/garbage
 
 function copy_banner(){
-    export DESTDIR=$WORKDIR/card
-    cd $KCCARDDIR
+    export DESTDIR=$WORKDIR/banner
+    cd $KCCBANNERDIR
     $SCRIPTDIR/echo.sh
     #Common assets
     bash $ROOTDIR/fileLists/DD/DDrare
