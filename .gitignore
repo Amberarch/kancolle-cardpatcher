@@ -9,3 +9,4 @@ assets/ignore/*
 fileLists/shipinfo_emblem_class.txt
 fileLists/shipinfo_emblem_class.txt.b
 release/*
+scripts/generated/
