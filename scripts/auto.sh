@@ -17,6 +17,7 @@ function copy_banner(){
     bash $ROOTDIR/fileLists/DD/DDrare
     #TODO: imagemagick
     #$SCRIPTDIR/orig.sh
+    #  ffmpeg -i 0001_2910.png -i common-badge.png -filter_complex '[0:v]scale=240x60[bak];[1:v]scale=62x60[badge];[bak][badge] overlay [comb]; [comb]drawtext=text=DD:fontsize=30:fontcolor=white:bordercolor=black:borderw=2:y=(h-text_h)/2:x=10' out.png
     #$SCRIPTDIR/move-patched.sh
 
 }

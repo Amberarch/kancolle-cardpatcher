@@ -1,0 +1,7 @@
+cp 0153*.png $DESTDIR/
+cp 0156*.png $DESTDIR/
+cp 0466*.png $DESTDIR/
+cp 0467*.png $DESTDIR/
+cp 0550*.png $DESTDIR/
+cp 0713*.png $DESTDIR/
+cp 0885*.png $DESTDIR/

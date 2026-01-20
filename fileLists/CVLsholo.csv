@@ -1,0 +1,12 @@
+cp 0508*.png $DESTDIR/
+cp 0509*.png $DESTDIR/
+cp 0529*.png $DESTDIR/
+cp 0536*.png $DESTDIR/
+cp 0555*.png $DESTDIR/
+cp 0560*.png $DESTDIR/
+cp 0707*.png $DESTDIR/
+cp 0883*.png $DESTDIR/
+cp 0888*.png $DESTDIR/
+cp 0889*.png $DESTDIR/
+cp 0894*.png $DESTDIR/
+cp 0899*.png $DESTDIR/

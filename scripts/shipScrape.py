@@ -6,6 +6,7 @@
 
 import requests
 import pandas as pd
+# this script also requires lxml, html5lib, and BeautifulSoup4 to be installed
 
 #url = 'http://localhost:8080'
 url = 'https://en.kancollewiki.net/Ship/Rarity'

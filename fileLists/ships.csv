@@ -1,0 +1,832 @@
+DD,1,Mutsuki,,3 Uncommon,3 Uncommon,0
+DD,2,Kisaragi,,2 Common,2 Common,0
+DD,6,Nagatsuki,,2 Common,2 Common,0
+DD,7,Mikazuki,,1 Very Common,1 Very Common,0
+DD,9,Fubuki,,3 Uncommon,3 Uncommon,0
+DD,10,Shirayuki,,2 Common,2 Common,0
+DD,11,Miyuki,,2 Common,2 Common,0
+DD,12,Isonami,,1 Very Common,1 Very Common,0
+DD,13,Ayanami,,3 Uncommon,3 Uncommon,0
+DD,14,Shikinami,,2 Common,2 Common,0
+DD,15,Akebono,,1 Very Common,1 Very Common,0
+DD,16,Ushio,,1 Very Common,1 Very Common,0
+DD,17,Kagerou,,3 Uncommon,3 Uncommon,0
+DD,18,Shiranui,,2 Common,2 Common,0
+DD,19,Kuroshio,,1 Very Common,1 Very Common,0
+DD,20,Yukikaze,,6 Holo,6 Holo,0
+CL,21,Nagara,,4 Rare,4 Rare,0
+CL,22,Isuzu,,2 Common,2 Common,0
+CL,23,Yura,,1 Very Common,1 Very Common,0
+CL,24,Ooi,,5 Very Rare,5 Very Rare,0
+CL,25,Kitakami,,4 Rare,4 Rare,0
+BB,26,Fusou,,4 Rare,4 Rare,0
+BB,27,Yamashiro,,4 Rare,4 Rare,0
+DD,28,Satsuki,,2 Common,2 Common,0
+DD,29,Fumizuki,,2 Common,2 Common,0
+DD,30,Kikuzuki,,1 Very Common,1 Very Common,0
+DD,31,Mochizuki,,1 Very Common,1 Very Common,0
+DD,32,Hatsuyuki,,1 Very Common,1 Very Common,0
+DD,33,Murakumo,,2 Common,2 Common,0
+DD,34,Akatsuki,,3 Uncommon,3 Uncommon,0
+DD,35,Hibiki,,2 Common,2 Common,0
+DD,36,Ikazuchi,,1 Very Common,1 Very Common,0
+DD,37,Inazuma,,1 Very Common,1 Very Common,0
+DD,38,Hatsuharu,,3 Uncommon,3 Uncommon,0
+DD,39,Nenohi,,1 Very Common,1 Very Common,0
+DD,40,Wakaba,,2 Common,2 Common,0
+DD,41,Hatsushimo,,2 Common,2 Common,0
+DD,42,Shiratsuyu,,3 Uncommon,3 Uncommon,0
+DD,43,Shigure,,2 Common,2 Common,0
+DD,44,Murasame,,2 Common,2 Common,0
+DD,45,Yuudachi,,2 Common,2 Common,0
+DD,46,Samidare,,2 Common,2 Common,0
+DD,47,Suzukaze,,3 Uncommon,3 Uncommon,0
+DD,48,Arare,,1 Very Common,1 Very Common,0
+DD,49,Kasumi,,2 Common,2 Common,0
+DD,50,Shimakaze,,6 Holo,6 Holo,0
+CL,51,Tenryuu,,3 Uncommon,3 Uncommon,0
+CL,52,Tatsuta,,3 Uncommon,3 Uncommon,0
+CL,53,Natori,,2 Common,2 Common,0
+CL,54,Sendai,,4 Rare,4 Rare,0
+CL,55,Jintsuu,,1 Very Common,1 Very Common,0
+CL,56,Naka,,2 Common,2 Common,0
+CLT,57,Ooi Kai,,6 Holo,6 Holo,0
+CLT,58,Kitakami Kai,,6 Holo,6 Holo,0
+CA,59,Furutaka,,3 Uncommon,3 Uncommon,0
+CA,60,Kako,,1 Very Common,1 Very Common,0
+CA,61,Aoba,,3 Uncommon,3 Uncommon,0
+CA,62,Myoukou,,4 Rare,4 Rare,0
+CA,63,Nachi,,1 Very Common,1 Very Common,0
+CA,64,Ashigara,,2 Common,2 Common,0
+CA,65,Haguro,,1 Very Common,1 Very Common,0
+CA,66,Takao,,4 Rare,4 Rare,0
+CA,67,Atago,,4 Rare,4 Rare,0
+CA,68,Maya,,1 Very Common,1 Very Common,0
+CA,69,Choukai,,1 Very Common,1 Very Common,0
+CA,70,Mogami,,4 Rare,4 Rare,0
+CA,71,Tone,,4 Rare,4 Rare,0
+CA,72,Chikuma,,4 Rare,4 Rare,0
+CAV,73,Mogami Kai,,6 Holo,6 Holo,0
+CVL,74,Shouhou,,4 Rare,4 Rare,0
+CVL,75,Hiyou,,4 Rare,4 Rare,0
+CVL,76,Ryuujou,,4 Rare,4 Rare,0
+BB,77,Ise,,5 Very Rare,5 Very Rare,0
+FBB,78,Kongou,,5 Very Rare,5 Very Rare,0
+FBB,79,Haruna,,5 Very Rare,5 Very Rare,0
+BB,80,Nagato,,7 S Holo,7 S Holo,0
+BB,81,Mutsu,,7 S Holo,7 S Holo,0
+BBV,82,Ise Kai,,6 Holo,6 Holo,0
+CV,83,Akagi,,6 Holo,6 Holo,0
+CV,84,Kaga,,5 Very Rare,5 Very Rare,0
+FBB,85,Kirishima,,5 Very Rare,5 Very Rare,0
+FBB,86,Hiei,,5 Very Rare,5 Very Rare,0
+BB,87,Hyuuga,,5 Very Rare,5 Very Rare,0
+BBV,88,Hyuuga Kai,,6 Holo,6 Holo,0
+CVL,89,Houshou,,3 Uncommon,3 Uncommon,0
+CV,90,Souryuu,,5 Very Rare,5 Very Rare,0
+CV,91,Hiryuu,,6 Holo,6 Holo,0
+CVL,92,Junyou,,4 Rare,4 Rare,0
+DD,93,Oboro,,1 Very Common,1 Very Common,0
+DD,94,Sazanami,,2 Common,2 Common,0
+DD,95,Asashio,,3 Uncommon,3 Uncommon,0
+DD,96,Ooshio,,1 Very Common,1 Very Common,0
+DD,97,Michishio,,1 Very Common,1 Very Common,0
+DD,98,Arashio,,1 Very Common,1 Very Common,0
+CL,99,Kuma,,4 Rare,4 Rare,0
+CL,100,Tama,,2 Common,2 Common,0
+CL,101,Kiso,,1 Very Common,1 Very Common,0
+AV,102,Chitose,,2 Common,2 Common,0
+AV,103,Chiyoda,,1 Very Common,1 Very Common,0
+AV,104,Chitose Kai,,3 Uncommon,3 Uncommon,0
+AV,105,Chiyoda Kai,,3 Uncommon,3 Uncommon,0
+AV,106,Chitose A,,3 Uncommon,3 Uncommon,0
+AV,107,Chiyoda A,,3 Uncommon,3 Uncommon,0
+CVL,108,Chitose Kou,,4 Rare,4 Rare,0
+CVL,109,Chiyoda Kou,,4 Rare,4 Rare,0
+CV,110,Shoukaku,,5 Very Rare,5 Very Rare,0
+CV,111,Zuikaku,,6 Holo,6 Holo,0
+CV,112,Zuikaku Kai,,7 S Holo,7 S Holo,0
+CL,113,Kinu,,4 Rare,4 Rare,0
+CL,114,Abukuma,,5 Very Rare,5 Very Rare,0
+CL,115,Yuubari,,5 Very Rare,5 Very Rare,0
+CVL,116,Zuihou,,5 Very Rare,5 Very Rare,0
+CVL,117,Zuihou Kai,,6 Holo,6 Holo,0
+CLT,118,Ooi Kai Ni,,7 S Holo,7 S Holo,0
+CLT,119,Kitakami Kai Ni,,7 S Holo,7 S Holo,0
+CA,120,Mikuma,,5 Very Rare,5 Very Rare,0
+CAV,121,Mikuma Kai,,6 Holo,6 Holo,0
+DD,122,Maikaze,,4 Rare,4 Rare,0
+CA,123,Kinugasa,,4 Rare,4 Rare,0
+CA,124,Suzuya,,4 Rare,4 Rare,0
+CA,125,Kumano,,4 Rare,4 Rare,0
+SS,126,I-168,,3 Uncommon,3 Uncommon,0
+SS,127,I-58,,4 Rare,4 Rare,0
+SS,128,I-8,,5 Very Rare,5 Very Rare,0
+CAV,129,Suzuya Kai,,5 Very Rare,5 Very Rare,0
+CAV,130,Kumano Kai,,5 Very Rare,5 Very Rare,0
+BB,131,Yamato,,8 SS Holo,8 SS Holo,0
+DD,132,Akigumo,,4 Rare,4 Rare,0
+DD,133,Yuugumo,,4 Rare,4 Rare,0
+DD,134,Makigumo,,4 Rare,4 Rare,0
+DD,135,Naganami,,4 Rare,4 Rare,0
+BB,136,Yamato Kai,,8 SS Holo,8 SS Holo,0
+CL,137,Agano,,5 Very Rare,5 Very Rare,0
+CL,138,Noshiro,,5 Very Rare,5 Very Rare,0
+CL,139,Yahagi,,6 Holo,6 Holo,0
+CL,140,Sakawa,,5 Very Rare,5 Very Rare,0
+CL,141,Isuzu Kai Ni,,5 Very Rare,5 Very Rare,0
+CA,142,Kinugasa Kai Ni,,6 Holo,6 Holo,0
+BB,143,Musashi,,7 S Holo,8 SS Holo,1
+DD,144,Yuudachi Kai Ni,,6 Holo,6 Holo,0
+DD,145,Shigure Kai Ni,,6 Holo,6 Holo,0
+CLT,146,Kiso Kai Ni,,6 Holo,6 Holo,0
+DD,147,Verniy,,6 Holo,6 Holo,0
+BB,148,Musashi Kai,,7 S Holo,8 SS Holo,1
+FBB,149,Kongou Kai Ni,,7 S Holo,7 S Holo,0
+FBB,150,Hiei Kai Ni,,7 S Holo,7 S Holo,0
+FBB,151,Haruna Kai Ni,,7 S Holo,7 S Holo,0
+FBB,152,Kirishima Kai Ni,,7 S Holo,7 S Holo,0
+CVB,153,Taihou,,7 S Holo,7 S Holo,0
+CT,154,Katori,,4 Rare,4 Rare,0
+SSV,155,I-401,,6 Holo,6 Holo,0
+CVB,156,Taihou Kai,,7 S Holo,7 S Holo,0
+CVL,157,Ryuujou Kai Ni,,6 Holo,6 Holo,0
+CL,158,Sendai Kai Ni,,6 Holo,6 Holo,0
+CL,159,Jintsuu Kai Ni,,6 Holo,6 Holo,0
+CL,160,Naka Kai Ni,,6 Holo,6 Holo,0
+LHA,161,Akitsu Maru,,5 Very Rare,5 Very Rare,0
+AO,162,Kamoi,,4 Rare,4 Rare,0
+SS,163,Maruyu,,5 Very Rare,5 Very Rare,0
+DD,164,Yayoi,,4 Rare,4 Rare,0
+DD,165,Uzuki,,4 Rare,4 Rare,0
+LHA,166,Akitsu Maru Kai,,6 Holo,6 Holo,0
+DD,167,Isokaze,,5 Very Rare,5 Very Rare,0
+DD,168,Urakaze,,4 Rare,4 Rare,0
+DD,169,Tanikaze,,4 Rare,4 Rare,0
+DD,170,Hamakaze,,4 Rare,4 Rare,0
+FBB,171,Bismarck,,7 S Holo,7 S Holo,0
+FBB,172,Bismarck Kai,,7 S Holo,7 S Holo,0
+FBB,173,Bismarck Zwei,,7 S Holo,7 S Holo,0
+DD,174,Z1,,5 Very Rare,5 Very Rare,0
+DD,175,Z3,,5 Very Rare,5 Very Rare,0
+CA,176,Prinz Eugen,,6 Holo,6 Holo,0
+CA,177,Prinz Eugen Kai,,7 S Holo,7 S Holo,0
+FBB,178,Bismarck Drei,,7 S Holo,7 S Holo,0
+DD,179,Z1 Zwei,,7 S Holo,7 S Holo,0
+DD,180,Z3 Zwei,,7 S Holo,7 S Holo,0
+DD,181,Amatsukaze,,6 Holo,6 Holo,0
+AR,182,Akashi,,6 Holo,6 Holo,0
+CL,183,Ooyodo,,6 Holo,6 Holo,0
+AS,184,Taigei,,4 Rare,4 Rare,0
+CVL,185,Ryuuhou,,5 Very Rare,5 Very Rare,0
+DD,186,Tokitsukaze,,5 Very Rare,5 Very Rare,0
+AR,187,Akashi Kai,,7 S Holo,7 S Holo,0
+CAV,188,Tone Kai Ni,,7 S Holo,7 S Holo,0
+CAV,189,Chikuma Kai Ni,,7 S Holo,7 S Holo,0
+DD,190,Hatsukaze,,4 Rare,4 Rare,0
+SS,191,I-19,,4 Rare,4 Rare,0
+CA,192,Nachi Kai Ni,,6 Holo,6 Holo,0
+CA,193,Ashigara Kai Ni,,6 Holo,6 Holo,0
+CA,194,Haguro Kai Ni,,5 Very Rare,6 Holo,1
+DD,195,Ayanami Kai Ni,,6 Holo,6 Holo,0
+CV,196,Hiryuu Kai Ni,,8 SS Holo,8 SS Holo,0
+CV,197,Souryuu Kai Ni,,7 S Holo,7 S Holo,0
+DD,198,Arare Kai Ni,,6 Holo,6 Holo,0
+DD,199,Ooshio Kai Ni,,6 Holo,6 Holo,0
+CL,200,Abukuma Kai Ni,,7 S Holo,7 S Holo,0
+DD,201,Fubuki Kai,,4 Rare,4 Rare,0
+DD,202,Shirayuki Kai,,4 Rare,4 Rare,0
+DD,203,Hatsuyuki Kai,,4 Rare,4 Rare,0
+DD,204,Miyuki Kai,,4 Rare,4 Rare,0
+DD,205,Murakumo Kai,,4 Rare,4 Rare,0
+DD,206,Isonami Kai,,4 Rare,4 Rare,0
+DD,207,Ayanami Kai,,4 Rare,4 Rare,0
+DD,208,Shikinami Kai,,4 Rare,4 Rare,0
+FBB,209,Kongou Kai,,6 Holo,6 Holo,0
+FBB,210,Hiei Kai,,6 Holo,6 Holo,0
+FBB,211,Haruna Kai,,6 Holo,6 Holo,0
+FBB,212,Kirishima Kai,,6 Holo,6 Holo,0
+CL,213,Tenryuu Kai,,4 Rare,4 Rare,0
+CL,214,Tatsuta Kai,,4 Rare,4 Rare,0
+CL,215,Kuma Kai,,5 Very Rare,5 Very Rare,0
+CL,216,Tama Kai,,4 Rare,4 Rare,0
+CL,217,Kiso Kai,,4 Rare,4 Rare,0
+CL,218,Nagara Kai,,5 Very Rare,5 Very Rare,0
+CL,219,Isuzu Kai,,4 Rare,4 Rare,0
+CL,220,Yura Kai,,4 Rare,4 Rare,0
+CL,221,Natori Kai,,4 Rare,4 Rare,0
+CL,222,Sendai Kai,,5 Very Rare,5 Very Rare,0
+CL,223,Jintsuu Kai,,4 Rare,4 Rare,0
+CL,224,Naka Kai,,4 Rare,4 Rare,0
+DD,225,Kagerou Kai,,4 Rare,4 Rare,0
+DD,226,Shiranui Kai,,4 Rare,4 Rare,0
+DD,227,Kuroshio Kai,,4 Rare,4 Rare,0
+DD,228,Yukikaze Kai,,6 Holo,6 Holo,0
+DD,229,Shimakaze Kai,,6 Holo,6 Holo,0
+DD,230,Oboro Kai,,4 Rare,4 Rare,0
+DD,231,Akebono Kai,,4 Rare,4 Rare,0
+DD,232,Sazanami Kai,,4 Rare,4 Rare,0
+DD,233,Ushio Kai,,4 Rare,4 Rare,0
+DD,234,Akatsuki Kai,,4 Rare,4 Rare,0
+DD,235,Hibiki Kai,,4 Rare,4 Rare,0
+DD,236,Ikazuchi Kai,,4 Rare,4 Rare,0
+DD,237,Inazuma Kai,,4 Rare,4 Rare,0
+DD,238,Hatsuharu Kai,,4 Rare,4 Rare,0
+DD,239,Nenohi Kai,,4 Rare,4 Rare,0
+DD,240,Wakaba Kai,,4 Rare,4 Rare,0
+DD,241,Hatsushimo Kai,,4 Rare,4 Rare,0
+DD,242,Shiratsuyu Kai,,4 Rare,4 Rare,0
+DD,243,Shigure Kai,,4 Rare,4 Rare,0
+DD,244,Murasame Kai,,4 Rare,4 Rare,0
+DD,245,Yuudachi Kai,,4 Rare,4 Rare,0
+DD,246,Samidare Kai,,4 Rare,4 Rare,0
+DD,247,Suzukaze Kai,,4 Rare,4 Rare,0
+DD,248,Asashio Kai,,4 Rare,4 Rare,0
+DD,249,Ooshio Kai,,4 Rare,4 Rare,0
+DD,250,Michishio Kai,,4 Rare,4 Rare,0
+DD,251,Arashio Kai,,4 Rare,4 Rare,0
+DD,252,Arare Kai,,4 Rare,4 Rare,0
+DD,253,Kasumi Kai,,4 Rare,4 Rare,0
+DD,254,Mutsuki Kai,,4 Rare,4 Rare,0
+DD,255,Kisaragi Kai,,4 Rare,4 Rare,0
+DD,256,Satsuki Kai,,4 Rare,4 Rare,0
+DD,257,Fumizuki Kai,,4 Rare,4 Rare,0
+DD,258,Nagatsuki Kai,,4 Rare,4 Rare,0
+DD,259,Kikuzuki Kai,,4 Rare,4 Rare,0
+DD,260,Mikazuki Kai,,4 Rare,4 Rare,0
+DD,261,Mochizuki Kai,,4 Rare,4 Rare,0
+CA,262,Furutaka Kai,,4 Rare,4 Rare,0
+CA,263,Kako Kai,,4 Rare,4 Rare,0
+CA,264,Aoba Kai,,4 Rare,4 Rare,0
+CA,265,Myoukou Kai,,5 Very Rare,5 Very Rare,0
+CA,266,Nachi Kai,,4 Rare,4 Rare,0
+CA,267,Ashigara Kai,,4 Rare,4 Rare,0
+CA,268,Haguro Kai,,4 Rare,4 Rare,0
+CA,269,Takao Kai,,5 Very Rare,5 Very Rare,0
+CA,270,Atago Kai,,5 Very Rare,5 Very Rare,0
+CA,271,Maya Kai,,4 Rare,4 Rare,0
+CA,272,Choukai Kai,,4 Rare,4 Rare,0
+CA,273,Tone Kai,,5 Very Rare,5 Very Rare,0
+CA,274,Chikuma Kai,,5 Very Rare,5 Very Rare,0
+BB,275,Nagato Kai,,7 S Holo,7 S Holo,0
+BB,276,Mutsu Kai,,7 S Holo,7 S Holo,0
+CV,277,Akagi Kai,,7 S Holo,7 S Holo,0
+CV,278,Kaga Kai,,6 Holo,6 Holo,0
+CV,279,Souryuu Kai,,6 Holo,6 Holo,0
+CV,280,Hiryuu Kai,,7 S Holo,7 S Holo,0
+CVL,281,Ryuujou Kai,,5 Very Rare,5 Very Rare,0
+CVL,282,Shouhou Kai,,5 Very Rare,5 Very Rare,0
+CVL,283,Hiyou Kai,,5 Very Rare,5 Very Rare,0
+CVL,284,Junyou Kai,,5 Very Rare,5 Very Rare,0
+CVL,285,Houshou Kai,,4 Rare,4 Rare,0
+BBV,286,Fusou Kai,,5 Very Rare,5 Very Rare,0
+BBV,287,Yamashiro Kai,,5 Very Rare,5 Very Rare,0
+CV,288,Shoukaku Kai,,6 Holo,6 Holo,0
+CL,289,Kinu Kai,,5 Very Rare,5 Very Rare,0
+CL,290,Abukuma Kai,,6 Holo,6 Holo,0
+CVL,291,Chitose Kou Kai,,5 Very Rare,5 Very Rare,0
+CVL,292,Chiyoda Kou Kai,,5 Very Rare,5 Very Rare,0
+CL,293,Yuubari Kai,,6 Holo,6 Holo,0
+DD,294,Maikaze Kai,,5 Very Rare,5 Very Rare,0
+CA,295,Kinugasa Kai,,5 Very Rare,5 Very Rare,0
+CVL,296,Chitose Kou Kai Ni,,6 Holo,6 Holo,0
+CVL,297,Chiyoda Kou Kai Ni,,6 Holo,6 Holo,0
+SS,299,Scamp,,6 Holo,6 Holo,0
+DD,300,Hatsukaze Kai,,5 Very Rare,5 Very Rare,0
+DD,301,Akigumo Kai,,5 Very Rare,5 Very Rare,0
+DD,302,Yuugumo Kai,,5 Very Rare,5 Very Rare,0
+DD,303,Makigumo Kai,,5 Very Rare,5 Very Rare,0
+DD,304,Naganami Kai,,5 Very Rare,5 Very Rare,0
+CL,305,Agano Kai,,6 Holo,6 Holo,0
+CL,306,Noshiro Kai,,6 Holo,6 Holo,0
+CL,307,Yahagi Kai,,8 SS Holo,8 SS Holo,0
+DD,308,Yayoi Kai,,5 Very Rare,5 Very Rare,0
+DD,309,Uzuki Kai,,5 Very Rare,5 Very Rare,0
+DD,310,Z1 Kai,,6 Holo,6 Holo,0
+DD,311,Z3 Kai,,6 Holo,6 Holo,0
+DD,312,Hamakaze Kai,,5 Very Rare,5 Very Rare,0
+DD,313,Tanikaze Kai,,5 Very Rare,5 Very Rare,0
+CL,314,Sakawa Kai,,6 Holo,6 Holo,0
+DD,316,Amatsukaze Kai,,7 S Holo,7 S Holo,0
+DD,317,Urakaze Kai,,5 Very Rare,5 Very Rare,0
+CVL,318,Ryuuhou Kai,,6 Holo,6 Holo,0
+CA,319,Myoukou Kai Ni,,6 Holo,6 Holo,0
+DD,320,Isokaze Kai,,6 Holo,6 Holo,0
+CL,321,Ooyodo Kai,,7 S Holo,7 S Holo,0
+DD,322,Tokitsukaze Kai,,6 Holo,6 Holo,0
+DD,323,Harusame Kai,,5 Very Rare,5 Very Rare,0
+DD,324,Hayashimo Kai,,5 Very Rare,5 Very Rare,0
+DD,325,Kiyoshimo Kai,,5 Very Rare,5 Very Rare,0
+DD,326,Hatsuharu Kai Ni,,6 Holo,6 Holo,0
+DD,327,Asagumo Kai,,5 Very Rare,5 Very Rare,0
+DD,328,Yamagumo Kai,,5 Very Rare,5 Very Rare,0
+DD,329,Nowaki Kai,,6 Holo,6 Holo,0
+DD,330,Akizuki Kai,,7 S Holo,7 S Holo,0
+CV,331,Amagi,,6 Holo,6 Holo,0
+CV,332,Katsuragi,,6 Holo,6 Holo,0
+SS,334,U-511 Kai,,6 Holo,6 Holo,0
+CT,343,Katori Kai,,5 Very Rare,5 Very Rare,0
+DD,344,Asashimo Kai,,5 Very Rare,5 Very Rare,0
+DD,345,Takanami Kai,,5 Very Rare,5 Very Rare,0
+DD,346,Teruzuki Kai,,7 S Holo,7 S Holo,0
+DD,347,Libeccio Kai,,7 S Holo,7 S Holo,0
+AV,348,Mizuho Kai,,5 Very Rare,6 Holo,1
+DD,349,Kazagumo Kai,,5 Very Rare,5 Very Rare,0
+DD,350,Umikaze Kai,,4 Rare,5 Very Rare,1
+DD,351,Kawakaze Kai,,5 Very Rare,5 Very Rare,0
+AO,352,Hayasui Kai,,7 S Holo,7 S Holo,0
+CV,353,Graf Zeppelin Kai,,7 S Holo,7 S Holo,0
+DD,354,Arashi Kai,,6 Holo,6 Holo,0
+DD,355,Hagikaze Kai,,6 Holo,6 Holo,0
+CT,356,Kashima Kai,,5 Very Rare,5 Very Rare,0
+DD,357,Hatsuzuki Kai,,7 S Holo,7 S Holo,0
+CA,358,Zara Kai,,7 S Holo,7 S Holo,0
+DD,359,Okinami Kai,,5 Very Rare,5 Very Rare,0
+FBB,360,Iowa Kai,,8 SS Holo,8 SS Holo,0
+CA,361,Pola Kai,,7 S Holo,7 S Holo,0
+DD,362,Oyashio Kai,,6 Holo,6 Holo,0
+DD,363,Harukaze Kai,,5 Very Rare,5 Very Rare,0
+BB,364,Warspite Kai,,8 SS Holo,7 S Holo,-1
+CV,365,Aquila Kai,,8 SS Holo,7 S Holo,-1
+DD,366,Minazuki Kai,,5 Very Rare,5 Very Rare,0
+SSV,367,I-26 Kai,,5 Very Rare,5 Very Rare,0
+DD,368,Uranami Kai,,5 Very Rare,5 Very Rare,0
+DD,369,Yamakaze Kai,,5 Very Rare,5 Very Rare,0
+DD,370,Asakaze Kai,,5 Very Rare,5 Very Rare,0
+DD,371,Matsukaze Kai,,5 Very Rare,5 Very Rare,0
+AV,372,Commandant Teste Kai,,7 S Holo,7 S Holo,0
+DD,373,Fujinami Kai,,5 Very Rare,5 Very Rare,0
+SSV,374,I-13 Kai,,7 S Holo,7 S Holo,0
+SSV,375,I-14 Kai,,7 S Holo,7 S Holo,0
+DE,376,Shimushu Kai,,5 Very Rare,5 Very Rare,0
+DE,377,Kunashiri Kai,,5 Very Rare,5 Very Rare,0
+DE,378,Hachijou Kai,,5 Very Rare,5 Very Rare,0
+DE,379,Ishigaki Kai,,5 Very Rare,5 Very Rare,0
+CVL,380,Taiyou Kai,,6 Holo,6 Holo,0
+CVL,381,Shinyou Kai,,6 Holo,6 Holo,0
+CVL,382,Unyou Kai,,6 Holo,6 Holo,0
+DE,383,Etorofu Kai,,5 Very Rare,5 Very Rare,0
+DE,384,Matsuwa Kai,,5 Very Rare,5 Very Rare,0
+DE,385,Sado Kai,,5 Very Rare,5 Very Rare,0
+DE,386,Tsushima Kai,,5 Very Rare,5 Very Rare,0
+DD,387,Hatakaze Kai,,5 Very Rare,5 Very Rare,0
+DD,390,Amagiri Kai,,6 Holo,6 Holo,0
+DD,391,Sagiri Kai,,5 Very Rare,5 Very Rare,0
+FBB,392,Richelieu Kai,,7 S Holo,7 S Holo,0
+CV,393,Ark Royal Kai,,8 SS Holo,7 S Holo,-1
+DD,394,Jervis Kai,,7 S Holo,7 S Holo,0
+DD,395,Tashkent Kai,,7 S Holo,7 S Holo,0
+CVL,396,Gambier Bay Kai,,6 Holo,6 Holo,0
+CV,397,Intrepid Kai,,8 SS Holo,7 S Holo,-1
+SS,398,I-168 Kai,,4 Rare,4 Rare,0
+SSV,399,I-58 Kai,,5 Very Rare,5 Very Rare,0
+SSV,400,I-8 Kai,,6 Holo,6 Holo,0
+SSV,401,I-19 Kai,,5 Very Rare,5 Very Rare,0
+SS,402,Maruyu Kai,,6 Holo,6 Holo,0
+SSV,403,I-401 Kai,,7 S Holo,7 S Holo,0
+CV,404,Unryuu,,6 Holo,6 Holo,0
+DD,405,Harusame,,4 Rare,4 Rare,0
+CV,406,Unryuu Kai,,7 S Holo,7 S Holo,0
+DD,407,Ushio Kai Ni,,6 Holo,6 Holo,0
+CVL,408,Junyou Kai Ni,,6 Holo,6 Holo,0
+DD,409,Hayashimo,,4 Rare,4 Rare,0
+DD,410,Kiyoshimo,,4 Rare,4 Rare,0
+BBV,411,Fusou Kai Ni,,6 Holo,6 Holo,0
+BBV,412,Yamashiro Kai Ni,,6 Holo,6 Holo,0
+DD,413,Asagumo,,4 Rare,4 Rare,0
+DD,414,Yamagumo,,4 Rare,4 Rare,0
+DD,415,Nowaki,,5 Very Rare,5 Very Rare,0
+CA,416,Furutaka Kai Ni,,6 Holo,6 Holo,0
+CA,417,Kako Kai Ni,,6 Holo,6 Holo,0
+DD,418,Satsuki Kai Ni,,6 Holo,6 Holo,0
+DD,419,Hatsushimo Kai Ni,,6 Holo,6 Holo,0
+DD,420,Murakumo Kai Ni,,6 Holo,6 Holo,0
+DD,421,Akizuki,,6 Holo,6 Holo,0
+DD,422,Teruzuki,,6 Holo,6 Holo,0
+DD,423,Hatsuzuki,,6 Holo,6 Holo,0
+DD,424,Takanami,,4 Rare,4 Rare,0
+DD,425,Asashimo,,4 Rare,4 Rare,0
+DD,426,Fubuki Kai Ni,,6 Holo,6 Holo,0
+CA,427,Choukai Kai Ni,,6 Holo,6 Holo,0
+CA,428,Maya Kai Ni,,6 Holo,6 Holo,0
+CV,429,Amagi Kai,,7 S Holo,7 S Holo,0
+CV,430,Katsuragi Kai,,7 S Holo,7 S Holo,0
+SS,431,U-511,,5 Very Rare,5 Very Rare,0
+CV,432,Graf Zeppelin,,7 S Holo,7 S Holo,0
+CV,433,Saratoga,,6 Holo,6 Holo,0
+DD,434,Mutsuki Kai Ni,,6 Holo,6 Holo,0
+DD,435,Kisaragi Kai Ni,,6 Holo,6 Holo,0
+SS,436,Ro-500,,7 S Holo,7 S Holo,0
+DD,437,Akatsuki Kai Ni,,6 Holo,6 Holo,0
+CV,438,Saratoga Kai,,7 S Holo,7 S Holo,0
+BB,439,Warspite,,7 S Holo,7 S Holo,0
+FBB,440,Iowa,,7 S Holo,7 S Holo,0
+FBB,441,Littorio,,6 Holo,6 Holo,0
+FBB,442,Roma,,6 Holo,6 Holo,0
+DD,443,Libeccio,,6 Holo,6 Holo,0
+CV,444,Aquila,,7 S Holo,7 S Holo,0
+AV,445,Akitsushima,,7 S Holo,7 S Holo,0
+FBB,446,Italia,,7 S Holo,7 S Holo,0
+FBB,447,Roma Kai,,7 S Holo,7 S Holo,0
+CA,448,Zara,,6 Holo,6 Holo,0
+CA,449,Pola,,6 Holo,6 Holo,0
+AV,450,Akitsushima Kai,,8 SS Holo,7 S Holo,-1
+AV,451,Mizuho,,5 Very Rare,5 Very Rare,0
+DD,452,Okinami,,4 Rare,4 Rare,0
+DD,453,Kazagumo,,4 Rare,4 Rare,0
+DD,454,Arashi,,5 Very Rare,5 Very Rare,0
+DD,455,Hagikaze,,5 Very Rare,5 Very Rare,0
+DD,456,Oyashio,,5 Very Rare,5 Very Rare,0
+DD,457,Yamakaze,,4 Rare,4 Rare,0
+DD,458,Umikaze,,4 Rare,4 Rare,0
+DD,459,Kawakaze,,4 Rare,4 Rare,0
+AO,460,Hayasui,,6 Holo,6 Holo,0
+CV,461,Shoukaku Kai Ni,,8 SS Holo,7 S Holo,-1
+CV,462,Zuikaku Kai Ni,,8 SS Holo,7 S Holo,-1
+DD,463,Asashio Kai Ni,,6 Holo,6 Holo,0
+DD,464,Kasumi Kai Ni,,6 Holo,6 Holo,0
+CT,465,Kashima,,3 Uncommon,4 Rare,1
+CVB,466,Shoukaku Kai Ni A,,8 SS Holo,7 S Holo,-1
+CVB,467,Zuikaku Kai Ni A,,8 SS Holo,7 S Holo,-1
+DD,468,Asashio Kai Ni D,,7 S Holo,7 S Holo,0
+DD,469,Kawakaze Kai Ni,,6 Holo,6 Holo,0
+DD,470,Kasumi Kai Ni B,,7 S Holo,7 S Holo,0
+DD,471,Kamikaze,,4 Rare,4 Rare,0
+DD,472,Asakaze,,4 Rare,4 Rare,0
+DD,473,Harukaze,,4 Rare,4 Rare,0
+DD,474,Matsukaze,,4 Rare,4 Rare,0
+DD,475,Hatakaze,,4 Rare,4 Rare,0
+DD,476,Kamikaze Kai,,6 Holo,6 Holo,0
+CL,477,Tenryuu Kai Ni,,7 S Holo,7 S Holo,0
+CL,478,Tatsuta Kai Ni,,7 S Holo,7 S Holo,0
+DD,479,Amagiri,,4 Rare,4 Rare,0
+DD,480,Sagiri,,4 Rare,4 Rare,0
+DD,481,Minazuki,,4 Rare,4 Rare,0
+SS,483,I-26,,4 Rare,4 Rare,0
+DD,484,Hamanami,,4 Rare,4 Rare,0
+DD,485,Fujinami,,4 Rare,4 Rare,0
+DD,486,Uranami,,4 Rare,4 Rare,0
+CL,487,Kinu Kai Ni,,7 S Holo,7 S Holo,0
+CL,488,Yura Kai Ni,,7 S Holo,7 S Holo,0
+DD,489,Michishio Kai Ni,,7 S Holo,7 S Holo,0
+DD,490,Arashio Kai Ni,,4 Rare,7 S Holo,3
+AV,491,Commandant Teste,,6 Holo,6 Holo,0
+FBB,492,Richelieu,,7 S Holo,7 S Holo,0
+SSV,493,I-400,,6 Holo,6 Holo,0
+SSV,494,I-13,,5 Very Rare,5 Very Rare,0
+SSV,495,I-14,,6 Holo,6 Holo,0
+CA,496,Zara Due,,8 SS Holo,7 S Holo,-1
+DD,497,Shiratsuyu Kai Ni,,7 S Holo,7 S Holo,0
+DD,498,Murasame Kai Ni,,7 S Holo,7 S Holo,0
+AV,499,Kamoi Kai,,5 Very Rare,5 Very Rare,0
+AO,500,Kamoi Kai Bo,,6 Holo,6 Holo,0
+CAV,501,Mogami Kai Ni,,7 S Holo,7 S Holo,0
+CAV,502,Mikuma Kai Ni,,7 S Holo,7 S Holo,0
+CAV,503,Suzuya Kai Ni,,7 S Holo,7 S Holo,0
+CAV,504,Kumano Kai Ni,,7 S Holo,7 S Holo,0
+CAV,506,Mogami Kai Ni Toku,,8 SS Holo,7 S Holo,-1
+AV,507,Mikuma Kai Ni Toku,,7 S Holo,7 S Holo,0
+CVL,508,Suzuya Kou Kai Ni,,7 S Holo,7 S Holo,0
+CVL,509,Kumano Kou Kai Ni,,7 S Holo,7 S Holo,0
+FBB,511,Gangut,,5 Very Rare,5 Very Rare,0
+FBB,512,Oktyabrskaya Revolyutsiya,,6 Holo,6 Holo,0
+FBB,513,Gangut Dva,,7 S Holo,7 S Holo,0
+CL,514,Sheffield,,6 Holo,6 Holo,0
+CV,515,Ark Royal,,7 S Holo,7 S Holo,0
+DD,516,Tashkent,,6 Holo,6 Holo,0
+DE,517,Shimushu,,4 Rare,4 Rare,0
+DE,518,Kunashiri,,4 Rare,4 Rare,0
+DD,519,Jervis,,6 Holo,6 Holo,0
+DD,520,Janus,,6 Holo,6 Holo,0
+CVL,521,Kasuga Maru,,4 Rare,4 Rare,0
+CVL,522,Yawata Maru,,4 Rare,4 Rare,0
+DE,524,Etorofu,,4 Rare,4 Rare,0
+DE,525,Matsuwa,,4 Rare,4 Rare,0
+CVL,526,Taiyou,,5 Very Rare,5 Very Rare,0
+DD,527,Kishinami,,4 Rare,4 Rare,0
+DD,528,Hayanami,,4 Rare,4 Rare,0
+CVL,529,Taiyou Kai Ni,,7 S Holo,7 S Holo,0
+SS,530,I-504,,7 S Holo,7 S Holo,0
+DE,531,Sado,,4 Rare,4 Rare,0
+DD,532,Suzutsuki,,6 Holo,6 Holo,0
+DD,533,Fuyutsuki,,6 Holo,6 Holo,0
+CVL,534,Shinyou,,4 Rare,4 Rare,0
+SS,535,Luigi Torelli,,4 Rare,4 Rare,0
+CVL,536,Shinyou Kai Ni,,7 S Holo,7 S Holo,0
+DD,537,Suzutsuki Kai,,7 S Holo,7 S Holo,0
+DD,538,Fuyutsuki Kai,,7 S Holo,7 S Holo,0
+SS,539,UIT-25,,6 Holo,6 Holo,0
+DE,540,Tsushima,,4 Rare,4 Rare,0
+BB,541,Nagato Kai Ni,,7 S Holo,7 S Holo,0
+DD,542,Yuugumo Kai Ni,,7 S Holo,7 S Holo,0
+DD,543,Naganami Kai Ni,,7 S Holo,7 S Holo,0
+CVL,544,Gambier Bay,,5 Very Rare,5 Very Rare,0
+CV,545,Saratoga Mk.II,,7 S Holo,7 S Holo,0
+BB,546,Musashi Kai Ni,,8 SS Holo,8 SS Holo,0
+CL,547,Tama Kai Ni,,7 S Holo,7 S Holo,0
+DD,548,Fumizuki Kai Ni,,6 Holo,6 Holo,0
+CV,549,Intrepid,,7 S Holo,7 S Holo,0
+CVB,550,Saratoga Mk.II Mod.2,,7 S Holo,7 S Holo,0
+DE,551,Hiburi,,4 Rare,4 Rare,0
+DE,552,Daitou,,4 Rare,4 Rare,0
+BBV,553,Ise Kai Ni,,7 S Holo,7 S Holo,0
+BBV,554,Hyuuga Kai Ni,,8 SS Holo,7 S Holo,-1
+CVL,555,Zuihou Kai Ni,,7 S Holo,7 S Holo,0
+DD,556,Urakaze D Kai,,6 Holo,6 Holo,0
+DD,557,Isokaze B Kai,,7 S Holo,7 S Holo,0
+DD,558,Hamakaze B Kai,,6 Holo,6 Holo,0
+DD,559,Tanikaze D Kai,,6 Holo,6 Holo,0
+CVL,560,Zuihou Kai Ni B,,7 S Holo,7 S Holo,0
+DD,561,Samuel B. Roberts,,5 Very Rare,5 Very Rare,0
+DD,562,Johnston,,5 Very Rare,5 Very Rare,0
+DD,563,Makigumo Kai Ni,,7 S Holo,7 S Holo,0
+DD,564,Kazagumo Kai Ni,,7 S Holo,7 S Holo,0
+DE,565,Fukae,,4 Rare,4 Rare,0
+DD,566,Kagerou Kai Ni,,7 S Holo,7 S Holo,0
+DD,567,Shiranui Kai Ni,,7 S Holo,7 S Holo,0
+DD,568,Kuroshio Kai Ni,,7 S Holo,7 S Holo,0
+DD,569,Okinami Kai Ni,,7 S Holo,7 S Holo,0
+DE,570,Hirato,,4 Rare,4 Rare,0
+BB,571,Nelson,,7 S Holo,7 S Holo,0
+BB,572,Rodney,,7 S Holo,7 S Holo,0
+BB,573,Mutsu Kai Ni,,8 SS Holo,7 S Holo,-1
+CL,574,Gotland,,6 Holo,6 Holo,0
+DD,575,Maestrale,,6 Holo,6 Holo,0
+BB,576,Nelson Kai,,7 S Holo,7 S Holo,0
+BB,577,Rodney Kai,,7 S Holo,7 S Holo,0
+DD,578,Asashimo Kai Ni,,7 S Holo,7 S Holo,0
+CL,579,Gotland Kai,,7 S Holo,7 S Holo,0
+DD,580,Maestrale Kai,,7 S Holo,7 S Holo,0
+AV,581,Nisshin,,6 Holo,6 Holo,0
+DD,582,Natsugumo,,4 Rare,4 Rare,0
+DD,583,Minegumo,,4 Rare,4 Rare,0
+DE,584,Hachijou,,4 Rare,4 Rare,0
+DE,585,Ishigaki,,4 Rare,4 Rare,0
+AV,586,Nisshin A,,8 SS Holo,7 S Holo,-1
+DD,587,Umikaze Kai Ni,,7 S Holo,7 S Holo,0
+DD,588,Yamakaze Kai Ni,,6 Holo,6 Holo,0
+CL,589,Duca degli Abruzzi,,6 Holo,6 Holo,0
+CL,590,Giuseppe Garibaldi,,6 Holo,6 Holo,0
+FBB,591,Kongou Kai Ni C,,8 SS Holo,7 S Holo,-1
+FBB,592,Hiei Kai Ni C,,8 SS Holo,7 S Holo,-1
+FBB,593,Haruna Kai Ni B,,8 SS Holo,7 S Holo,-1
+CV,594,Akagi Kai Ni,,8 SS Holo,8 SS Holo,0
+CA,595,Houston,,6 Holo,6 Holo,0
+DD,596,Fletcher,,6 Holo,6 Holo,0
+CL,597,Atlanta,,6 Holo,6 Holo,0
+CL,598,Honolulu,,5 Very Rare,5 Very Rare,0
+CV,599,Akagi Kai Ni E,,8 SS Holo,8 SS Holo,0
+CA,600,Houston Kai,,7 S Holo,7 S Holo,0
+BB,601,Colorado,,7 S Holo,7 S Holo,0
+FBB,602,South Dakota,,7 S Holo,7 S Holo,0
+CV,603,Hornet,,7 S Holo,7 S Holo,0
+CL,604,De Ruyter,,4 Rare,4 Rare,0
+SS,605,Luigi Torelli Kai,,5 Very Rare,5 Very Rare,0
+SSV,606,I-400 Kai,,7 S Holo,7 S Holo,0
+SS,607,I-47 Kai,,6 Holo,6 Holo,0
+CL,609,De Ruyter Kai,,5 Very Rare,5 Very Rare,0
+CV,610,Kaga Kai Ni E,,8 SS Holo,8 SS Holo,0
+DE,611,Mikura,,4 Rare,4 Rare,0
+DE,612,Yashiro,,4 Rare,4 Rare,0
+CL,613,Perth,,4 Rare,4 Rare,0
+DD,614,Grecale,,6 Holo,6 Holo,0
+CL,615,Helena,,5 Very Rare,5 Very Rare,0
+DE,616,Mikura Kai,,5 Very Rare,5 Very Rare,0
+DE,617,Yashiro Kai,,5 Very Rare,5 Very Rare,0
+CL,618,Perth Kai,,5 Very Rare,5 Very Rare,0
+DD,619,Grecale Kai,,7 S Holo,7 S Holo,0
+CL,620,Helena Kai,,6 Holo,6 Holo,0
+LHA,621,Shinshuu Maru,,6 Holo,6 Holo,0
+CL,622,Yuubari Kai Ni,,7 S Holo,7 S Holo,0
+CL,623,Yuubari Kai Ni Toku,,7 S Holo,7 S Holo,0
+CL,624,Yuubari Kai Ni D,,7 S Holo,7 S Holo,0
+DD,625,Akishimo,,4 Rare,4 Rare,0
+LHA,626,Shinshuu Maru Kai,,7 S Holo,7 S Holo,0
+DD,627,Shikinami Kai Ni,,6 Holo,6 Holo,0
+DD,628,Fletcher Kai Mod.2,,8 SS Holo,7 S Holo,-1
+DD,629,Fletcher Mk.II,,8 SS Holo,7 S Holo,-1
+CL,630,Gotland Andra,,8 SS Holo,7 S Holo,-1
+DD,631,Usugumo,,4 Rare,4 Rare,0
+DD,632,Ariake,,4 Rare,4 Rare,0
+DD,633,Yuugure,,4 Rare,4 Rare,0
+AS,634,Jingei,,4 Rare,4 Rare,0
+AS,635,Chougei,,4 Rare,4 Rare,0
+SS,636,I-47,,5 Very Rare,5 Very Rare,0
+DE,637,Kaiboukan No.4,,4 Rare,4 Rare,0
+DE,638,Kaiboukan No.30,,4 Rare,4 Rare,0
+AS,639,Jingei Kai,,5 Very Rare,5 Very Rare,0
+AS,640,Chougei Kai,,5 Very Rare,5 Very Rare,0
+DD,641,Matsu,,5 Very Rare,5 Very Rare,0
+DD,642,Take,,6 Holo,6 Holo,0
+DD,643,Ume,,5 Very Rare,5 Very Rare,0
+DD,644,Momo,,5 Very Rare,5 Very Rare,0
+AO,645,Souya (AGL),,6 Holo,6 Holo,0
+CV,646,Kaga Kai Ni Go,,8 SS Holo,8 SS Holo,0
+DD,647,Uranami Kai Ni,,7 S Holo,7 S Holo,0
+DD,648,Akigumo Kai Ni,,7 S Holo,7 S Holo,0
+DD,649,Takanami Kai Ni,,7 S Holo,7 S Holo,0
+AO,650,Souya (AGB),,7 S Holo,7 S Holo,0
+DD,651,Dan Yang,,7 S Holo,7 S Holo,0
+CL,652,Kuma Kai Ni,,7 S Holo,7 S Holo,0
+DD,653,Scirocco,,6 Holo,6 Holo,0
+FBB,654,Washington,,7 S Holo,7 S Holo,0
+CA,655,Northampton,,6 Holo,6 Holo,0
+DD,656,Yukikaze Kai Ni,,8 SS Holo,8 SS Holo,0
+CL,657,Kuma Kai Ni D,,7 S Holo,7 S Holo,0
+DD,658,Scirocco Kai,,7 S Holo,7 S Holo,0
+FBB,659,Washington Kai,,8 SS Holo,7 S Holo,-1
+CA,660,Northampton Kai,,7 S Holo,7 S Holo,0
+CL,662,Noshiro Kai Ni,,7 S Holo,7 S Holo,0
+CL,663,Yahagi Kai Ni,,8 SS Holo,8 SS Holo,0
+DD,665,Akebono Kai Ni,,6 Holo,6 Holo,0
+DD,666,Isonami Kai Ni,,7 S Holo,7 S Holo,0
+DD,667,Yamakaze Kai Ni D,,7 S Holo,7 S Holo,0
+CL,668,Yahagi Kai Ni B,,8 SS Holo,8 SS Holo,0
+DD,670,Oyashio Kai Ni,,7 S Holo,7 S Holo,0
+DD,671,Makinami,,4 Rare,4 Rare,0
+DD,674,Tamanami,,4 Rare,4 Rare,0
+DD,675,Suzunami,,4 Rare,4 Rare,0
+DE,678,Hiburi Kai,,5 Very Rare,5 Very Rare,0
+DE,679,Daitou Kai,,5 Very Rare,5 Very Rare,0
+DD,680,Hamanami Kai,,5 Very Rare,5 Very Rare,0
+DD,681,Samuel B. Roberts Kai,,6 Holo,6 Holo,0
+DE,684,Hirato Kai,,5 Very Rare,5 Very Rare,0
+DE,685,Fukae Kai,,5 Very Rare,5 Very Rare,0
+DD,686,Kishinami Kai,,5 Very Rare,5 Very Rare,0
+DD,687,Minegumo Kai,,5 Very Rare,5 Very Rare,0
+DD,688,Hayanami Kai,,5 Very Rare,5 Very Rare,0
+DD,689,Johnston Kai,,6 Holo,6 Holo,0
+AV,690,Nisshin Kai,,7 S Holo,7 S Holo,0
+CL,691,Giuseppe Garibaldi Kai,,7 S Holo,7 S Holo,0
+DD,692,Fletcher Kai,,7 S Holo,7 S Holo,0
+CL,693,Duca degli Abruzzi Kai,,7 S Holo,7 S Holo,0
+FBB,694,Kirishima Kai Ni C,,7 S Holo,7 S Holo,0
+DD,695,Akishimo Kai,,5 Very Rare,5 Very Rare,0
+CL,696,Atlanta Kai,,7 S Holo,7 S Holo,0
+FBB,697,South Dakota Kai,,8 SS Holo,7 S Holo,-1
+CV,698,Kaga Kai Ni,,8 SS Holo,8 SS Holo,0
+AO,699,Souya,,5 Very Rare,5 Very Rare,0
+DD,700,Usugumo Kai,,5 Very Rare,5 Very Rare,0
+DE,701,Kaiboukan No.4 Kai,,5 Very Rare,5 Very Rare,0
+DD,702,Matsu Kai,,6 Holo,6 Holo,0
+DD,703,Ariake Kai,,5 Very Rare,5 Very Rare,0
+CV,704,Hornet Kai,,8 SS Holo,7 S Holo,-1
+CL,705,Sheffield Kai,,7 S Holo,7 S Holo,0
+DD,706,Take Kai,,7 S Holo,7 S Holo,0
+CVL,707,Gambier Bay Mk.II,,8 SS Holo,8 SS Holo,0
+DD,708,Momo Kai,,6 Holo,6 Holo,0
+DD,709,Makinami Kai,,5 Very Rare,5 Very Rare,0
+DD,710,Suzunami Kai,,5 Very Rare,5 Very Rare,0
+CL,711,Honolulu Kai,,6 Holo,6 Holo,0
+DE,712,Kaiboukan No.30 Kai,,5 Very Rare,5 Very Rare,0
+CVB,713,Victorious Kai,,7 S Holo,7 S Holo,0
+DE,714,Shounan Kai,,5 Very Rare,5 Very Rare,0
+SS,715,Scamp Kai,,7 S Holo,7 S Holo,0
+DD,716,Ume Kai,,6 Holo,6 Holo,0
+AO,717,Yamashio Maru Kai,,5 Very Rare,6 Holo,1
+DD,718,Tamanami Kai,,5 Very Rare,5 Very Rare,0
+SS,719,I-201 Kai,,7 S Holo,7 S Holo,0
+DD,720,Hayashio Kai,,6 Holo,6 Holo,0
+DD,721,Natsugumo Kai,,5 Very Rare,5 Very Rare,0
+CL,722,Brooklyn Kai,,6 Holo,6 Holo,0
+CV,723,Ranger Kai,,7 S Holo,7 S Holo,0
+FBB,724,Jean Bart Kai,,8 SS Holo,7 S Holo,-1
+DD,725,Yuugure Kai,,5 Very Rare,5 Very Rare,0
+DD,726,Heywood L. Edwards Kai,,6 Holo,6 Holo,0
+LHA,727,No.101 Transport Ship Kai,,6 Holo,6 Holo,0
+DE,728,Kaiboukan No.22 Kai,,5 Very Rare,5 Very Rare,0
+DD,729,Shirakumo Kai,,5 Very Rare,5 Very Rare,0
+DE,730,Inagi Kai,,5 Very Rare,5 Very Rare,0
+SS,731,C.Cappellini Kai,,5 Very Rare,5 Very Rare,0
+SS,732,Drum Kai,,7 S Holo,7 S Holo,0
+BB,733,Valiant Kai,,7 S Holo,7 S Holo,0
+CL,734,Phoenix Kai,,6 Holo,6 Holo,0
+CV,735,Lexington Kai,,7 S Holo,7 S Holo,0
+DD,736,Kaya Kai,,6 Holo,6 Holo,0
+DD,737,Richard P. Leary Kai,,6 Holo,6 Holo,0
+DE,738,Norge Kai,,5 Very Rare,5 Very Rare,0
+DE,739,Eidsvold Kai,,5 Very Rare,5 Very Rare,0
+FBB,740,Glorious Kai (BC),,7 S Holo,7 S Holo,0
+CV,741,Glorious Kai (CV),,7 S Holo,7 S Holo,0
+DD,742,Kashi Kai,,6 Holo,6 Holo,0
+BB,877,Conte di Cavour,,5 Very Rare,5 Very Rare,0
+FBB,878,Conte di Cavour Kai,,6 Holo,6 Holo,0
+FBB,879,Conte di Cavour Nuovo,,7 S Holo,7 S Holo,0
+SS,881,I-201,,6 Holo,6 Holo,0
+SS,882,I-203,,6 Holo,6 Holo,0
+CVL,883,Ryuuhou Kai Ni E,,7 S Holo,7 S Holo,0
+CVL,884,Unyou,,5 Very Rare,5 Very Rare,0
+CVB,885,Victorious,,7 S Holo,7 S Holo,0
+DD,886,Hayashio,,5 Very Rare,5 Very Rare,0
+SS,887,I-203 Kai,,7 S Holo,7 S Holo,0
+CVL,888,Ryuuhou Kai Ni,,8 SS Holo,7 S Holo,-1
+CVL,889,Unyou Kai Ni,,7 S Holo,7 S Holo,0
+SS,891,Salmon,,5 Very Rare,5 Very Rare,0
+SS,892,Drum,,6 Holo,6 Holo,0
+DD,893,Janus Kai,,7 S Holo,7 S Holo,0
+CVL,894,Houshou Kai Ni,,7 S Holo,7 S Holo,0
+DE,895,Shounan,,4 Rare,4 Rare,0
+CL,896,Brooklyn,,5 Very Rare,5 Very Rare,0
+SS,897,Salmon Kai,,6 Holo,6 Holo,0
+DE,898,Kaiboukan No.22,,4 Rare,4 Rare,0
+CVL,899,Houshou Kai Ni Sen,,8 SS Holo,8 SS Holo,0
+AO,900,Yamashio Maru,,5 Very Rare,5 Very Rare,0
+DD,901,Javelin,,6 Holo,6 Holo,0
+DD,903,Amagiri Kai Ni,,7 S Holo,7 S Holo,0
+DE,904,Noumi,,4 Rare,4 Rare,0
+DE,905,Kurahashi,,4 Rare,4 Rare,0
+DD,906,Javelin Kai,,7 S Holo,7 S Holo,0
+DD,908,Amagiri Kai Ni D,,7 S Holo,7 S Holo,0
+DE,909,Noumi Kai,,5 Very Rare,5 Very Rare,0
+DE,910,Kurahashi Kai,,5 Very Rare,5 Very Rare,0
+FBB,911,Yamato Kai Ni,,8 SS Holo,8 SS Holo,0
+BB,913,Maryland,,7 S Holo,7 S Holo,0
+DD,915,Hayashio Kai Ni,,7 S Holo,7 S Holo,0
+BBV,916,Yamato Kai Ni Juu,,8 SS Holo,8 SS Holo,0
+BB,918,Maryland Kai,,8 SS Holo,8 SS Holo,0
+DD,920,Samuel B. Roberts Mk.II,,7 S Holo,7 S Holo,0
+DE,921,Ukuru,,4 Rare,4 Rare,0
+DE,922,Inagi,,4 Rare,4 Rare,0
+CA,923,Tuscaloosa,,6 Holo,5 Very Rare,-1
+BB,924,Nevada,,6 Holo,6 Holo,0
+CVL,925,Langley,,5 Very Rare,5 Very Rare,0
+DE,926,Ukuru Kai,,5 Very Rare,5 Very Rare,0
+BB,927,Valiant,,7 S Holo,7 S Holo,0
+CA,928,Tuscaloosa Kai,,7 S Holo,6 Holo,-1
+BB,929,Nevada Kai,,7 S Holo,7 S Holo,0
+CVL,930,Langley Kai,,6 Holo,6 Holo,0
+CV,931,Ranger,,6 Holo,6 Holo,0
+FBB,933,Massachusetts,,7 S Holo,7 S Holo,0
+SS,934,C.Cappellini,,4 Rare,4 Rare,0
+FBB,935,Jean Bart,,7 S Holo,7 S Holo,0
+BB,936,Nevada Kai Mod.2,,7 S Holo,7 S Holo,0
+FBB,938,Massachusetts Kai,,8 SS Holo,7 S Holo,-1
+SS,939,UIT-24,,6 Holo,6 Holo,0
+SS,940,I-503,,7 S Holo,7 S Holo,0
+DD,941,Heywood L. Edwards,,5 Very Rare,5 Very Rare,0
+DD,942,Richard P. Leary,,5 Very Rare,5 Very Rare,0
+LHA,943,Kumano Maru,,5 Very Rare,5 Very Rare,0
+AS,944,Heian Maru,,4 Rare,4 Rare,0
+LHA,945,No.101 Transport Ship,,5 Very Rare,5 Very Rare,0
+LHA,948,Kumano Maru Kai,,6 Holo,6 Holo,0
+AS,949,Heian Maru Kai,,5 Very Rare,5 Very Rare,0
+DD,951,Amatsukaze Kai Ni,,8 SS Holo,7 S Holo,-1
+CL,952,Phoenix,,5 Very Rare,5 Very Rare,0
+CT,953,Asahi,,5 Very Rare,5 Very Rare,0
+FBB,954,Haruna Kai Ni C,,8 SS Holo,7 S Holo,-1
+DD,955,Kiyoshimo Kai Ni,,7 S Holo,7 S Holo,0
+DD,956,Hayashimo Kai Ni,,7 S Holo,7 S Holo,0
+CL,957,General Belgrano,,7 S Holo,7 S Holo,0
+AR,958,Asahi Kai,,6 Holo,6 Holo,0
+DD,959,Miyuki Kai Ni,,6 Holo,6 Holo,0
+DD,960,Kiyoshimo Kai Ni D,,7 S Holo,7 S Holo,0
+DD,961,Shigure Kai San,,8 SS Holo,8 SS Holo,0
+DD,962,Mogador,,5 Very Rare,5 Very Rare,0
+DD,963,Akizuki Kai Ni,,7 S Holo,7 S Holo,0
+DD,964,Shirakumo,,4 Rare,4 Rare,0
+CL,965,Gloire,,5 Very Rare,5 Very Rare,0
+CV,966,Lexington,,6 Holo,6 Holo,0
+DD,967,Mogador Kai,,6 Holo,6 Holo,0
+DD,968,Hatsuzuki Kai Ni,,7 S Holo,7 S Holo,0
+FBB,969,Richelieu Deux,,8 SS Holo,8 SS Holo,0
+CL,970,Gloire Kai,,6 Holo,6 Holo,0
+SSV,971,I-36,,5 Very Rare,5 Very Rare,0
+SSV,972,I-41,,5 Very Rare,5 Very Rare,0
+DE,973,Thonburi,,5 Very Rare,5 Very Rare,0
+DD,975,Harusame Kai Ni,,7 S Holo,7 S Holo,0
+SSV,976,I-36 Kai,,6 Holo,6 Holo,0
+SSV,977,I-41 Kai,,6 Holo,6 Holo,0
+DE,978,Thonburi Kai,,6 Holo,6 Holo,0
+DE,979,Inagi Kai Ni,,6 Holo,6 Holo,0
+DD,981,Fujinami Kai Ni,,7 S Holo,7 S Holo,0
+DD,983,Hamanami Kai Ni,,7 S Holo,7 S Holo,0
+SS,984,Wahoo,,6 Holo,6 Holo,0
+SS,985,Dace,,6 Holo,6 Holo,0
+DD,986,Shirayuki Kai Ni,,6 Holo,6 Holo,0
+DD,987,Hatsuyuki Kai Ni,,6 Holo,6 Holo,0
+AO,988,Nankai,,4 Rare,4 Rare,0
+SS,989,Wahoo Kai,,7 S Holo,7 S Holo,0
+SS,990,Dace Kai,,7 S Holo,7 S Holo,0
+DD,992,Sugi,,5 Very Rare,5 Very Rare,0
+DD,993,Kashi,,5 Very Rare,5 Very Rare,0
+DD,994,Kaya,,5 Very Rare,5 Very Rare,0
+AO,995,Ootomari,,5 Very Rare,5 Very Rare,0
+AO,996,Nosaki,,5 Very Rare,5 Very Rare,0
+DD,997,Sugi Kai,,6 Holo,6 Holo,0
+DE,998,Norge,,4 Rare,4 Rare,0
+DE,999,Eidsvold,,4 Rare,4 Rare,0
+AO,1000,Ootomari Kai,,6 Holo,6 Holo,0
+CL,1001,Kirov,,6 Holo,6 Holo,0
+AO,1002,Nosaki Kai,,6 Holo,6 Holo,0
+AO,1003,Shimane Maru,,5 Very Rare,5 Very Rare,0
+CA,1005,Minneapolis,,5 Very Rare,5 Very Rare,0
+CL,1006,Kirov Kai,,7 S Holo,7 S Holo,0
+SS,1007,Leonardo da Vinci,,7 S Holo,7 S Holo,0
+AO,1008,Shimane Maru Kai,,6 Holo,6 Holo,0
+CA,1010,Minneapolis Kai,,6 Holo,6 Holo,0
+BB,1496,Colorado Kai,,7 S Holo,8 SS Holo,1
+FBB,1022,Glorious,160px,5 Very Rare,5 Very Rare,0
+CV,1025,Wasp,,7 S Holo,7 S Holo,0
+CV,1027,Glorious (CV),,6 Holo,6 Holo,0
+CV,1030,Wasp Kai,,7 S Holo,7 S Holo,0
+Type,Id,Name,Card,API Rarity,Card Rarity,Difference
