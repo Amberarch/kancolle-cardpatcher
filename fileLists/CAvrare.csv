@@ -1,9 +1,9 @@
-cp 0120*.png $DESTDIR/
-cp 0265*.png $DESTDIR/
-cp 0269*.png $DESTDIR/
-cp 0270*.png $DESTDIR/
-cp 0273*.png $DESTDIR/
-cp 0274*.png $DESTDIR/
-cp 0295*.png $DESTDIR/
-cp 0923*.png $DESTDIR/
-cp 1005*.png $DESTDIR/
+0120
+0265
+0269
+0270
+0273
+0274
+0295
+0923
+1005

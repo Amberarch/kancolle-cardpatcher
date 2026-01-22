@@ -1,3 +1,3 @@
-cp 0084*.png $DESTDIR/
-cp 0090*.png $DESTDIR/
-cp 0110*.png $DESTDIR/
+0084
+0090
+0110

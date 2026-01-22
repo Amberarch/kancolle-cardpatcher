@@ -1,7 +1,7 @@
-cp 0153*.png $DESTDIR/
-cp 0156*.png $DESTDIR/
-cp 0466*.png $DESTDIR/
-cp 0467*.png $DESTDIR/
-cp 0550*.png $DESTDIR/
-cp 0713*.png $DESTDIR/
-cp 0885*.png $DESTDIR/
+0153
+0156
+0466
+0467
+0550
+0713
+0885

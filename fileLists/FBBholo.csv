@@ -1,8 +1,8 @@
-cp 0209*.png $DESTDIR/
-cp 0210*.png $DESTDIR/
-cp 0211*.png $DESTDIR/
-cp 0212*.png $DESTDIR/
-cp 0441*.png $DESTDIR/
-cp 0442*.png $DESTDIR/
-cp 0512*.png $DESTDIR/
-cp 0878*.png $DESTDIR/
+0209
+0210
+0211
+0212
+0441
+0442
+0512
+0878

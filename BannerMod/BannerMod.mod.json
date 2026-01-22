@@ -1,9 +1,9 @@
 {
     "name": "BannerMod",
-    "version": "1.0",
+    "version": "0.1",
     "authors": ["Amber"],
     "requireScripts": false,
-    "url": "",
+    "url": "https://github.com/Amberarch/kancolle-cardpatcher",
     "updateUrl": "",
     "downloadUrl": ""
   }

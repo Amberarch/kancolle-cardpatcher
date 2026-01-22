@@ -1,6 +1,6 @@
-cp 0372*.png $DESTDIR/
-cp 0445*.png $DESTDIR/
-cp 0450*.png $DESTDIR/
-cp 0507*.png $DESTDIR/
-cp 0586*.png $DESTDIR/
-cp 0690*.png $DESTDIR/
+0372
+0445
+0450
+0507
+0586
+0690

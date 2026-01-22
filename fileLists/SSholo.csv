@@ -1,12 +1,12 @@
-cp 0299*.png $DESTDIR/
-cp 0334*.png $DESTDIR/
-cp 0402*.png $DESTDIR/
-cp 0539*.png $DESTDIR/
-cp 0607*.png $DESTDIR/
-cp 0881*.png $DESTDIR/
-cp 0882*.png $DESTDIR/
-cp 0892*.png $DESTDIR/
-cp 0897*.png $DESTDIR/
-cp 0939*.png $DESTDIR/
-cp 0984*.png $DESTDIR/
-cp 0985*.png $DESTDIR/
+0299
+0334
+0402
+0539
+0607
+0881
+0882
+0892
+0897
+0939
+0984
+0985

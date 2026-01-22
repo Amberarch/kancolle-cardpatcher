@@ -1,64 +1,64 @@
-cp 0167*.png $DESTDIR/
-cp 0174*.png $DESTDIR/
-cp 0175*.png $DESTDIR/
-cp 0186*.png $DESTDIR/
-cp 0294*.png $DESTDIR/
-cp 0300*.png $DESTDIR/
-cp 0301*.png $DESTDIR/
-cp 0302*.png $DESTDIR/
-cp 0303*.png $DESTDIR/
-cp 0304*.png $DESTDIR/
-cp 0308*.png $DESTDIR/
-cp 0309*.png $DESTDIR/
-cp 0312*.png $DESTDIR/
-cp 0313*.png $DESTDIR/
-cp 0317*.png $DESTDIR/
-cp 0323*.png $DESTDIR/
-cp 0324*.png $DESTDIR/
-cp 0325*.png $DESTDIR/
-cp 0327*.png $DESTDIR/
-cp 0328*.png $DESTDIR/
-cp 0344*.png $DESTDIR/
-cp 0345*.png $DESTDIR/
-cp 0349*.png $DESTDIR/
-cp 0350*.png $DESTDIR/
-cp 0351*.png $DESTDIR/
-cp 0359*.png $DESTDIR/
-cp 0363*.png $DESTDIR/
-cp 0366*.png $DESTDIR/
-cp 0368*.png $DESTDIR/
-cp 0369*.png $DESTDIR/
-cp 0370*.png $DESTDIR/
-cp 0371*.png $DESTDIR/
-cp 0373*.png $DESTDIR/
-cp 0387*.png $DESTDIR/
-cp 0391*.png $DESTDIR/
-cp 0415*.png $DESTDIR/
-cp 0454*.png $DESTDIR/
-cp 0455*.png $DESTDIR/
-cp 0456*.png $DESTDIR/
-cp 0561*.png $DESTDIR/
-cp 0562*.png $DESTDIR/
-cp 0641*.png $DESTDIR/
-cp 0643*.png $DESTDIR/
-cp 0644*.png $DESTDIR/
-cp 0680*.png $DESTDIR/
-cp 0686*.png $DESTDIR/
-cp 0687*.png $DESTDIR/
-cp 0688*.png $DESTDIR/
-cp 0695*.png $DESTDIR/
-cp 0700*.png $DESTDIR/
-cp 0703*.png $DESTDIR/
-cp 0709*.png $DESTDIR/
-cp 0710*.png $DESTDIR/
-cp 0718*.png $DESTDIR/
-cp 0721*.png $DESTDIR/
-cp 0725*.png $DESTDIR/
-cp 0729*.png $DESTDIR/
-cp 0886*.png $DESTDIR/
-cp 0941*.png $DESTDIR/
-cp 0942*.png $DESTDIR/
-cp 0962*.png $DESTDIR/
-cp 0992*.png $DESTDIR/
-cp 0993*.png $DESTDIR/
-cp 0994*.png $DESTDIR/
+0167
+0174
+0175
+0186
+0294
+0300
+0301
+0302
+0303
+0304
+0308
+0309
+0312
+0313
+0317
+0323
+0324
+0325
+0327
+0328
+0344
+0345
+0349
+0350
+0351
+0359
+0363
+0366
+0368
+0369
+0370
+0371
+0373
+0387
+0391
+0415
+0454
+0455
+0456
+0561
+0562
+0641
+0643
+0644
+0680
+0686
+0687
+0688
+0695
+0700
+0703
+0709
+0710
+0718
+0721
+0725
+0729
+0886
+0941
+0942
+0962
+0992
+0993
+0994
