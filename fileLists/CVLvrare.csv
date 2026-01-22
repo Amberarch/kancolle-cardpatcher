@@ -1,12 +1,12 @@
-cp 0116*.png $DESTDIR/
-cp 0185*.png $DESTDIR/
-cp 0281*.png $DESTDIR/
-cp 0282*.png $DESTDIR/
-cp 0283*.png $DESTDIR/
-cp 0284*.png $DESTDIR/
-cp 0291*.png $DESTDIR/
-cp 0292*.png $DESTDIR/
-cp 0526*.png $DESTDIR/
-cp 0544*.png $DESTDIR/
-cp 0884*.png $DESTDIR/
-cp 0925*.png $DESTDIR/
+0116
+0185
+0281
+0282
+0283
+0284
+0291
+0292
+0526
+0544
+0884
+0925

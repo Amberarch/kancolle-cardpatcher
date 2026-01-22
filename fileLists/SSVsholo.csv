@@ -1,4 +1,4 @@
-cp 0374*.png $DESTDIR/
-cp 0375*.png $DESTDIR/
-cp 0403*.png $DESTDIR/
-cp 0606*.png $DESTDIR/
+0374
+0375
+0403
+0606

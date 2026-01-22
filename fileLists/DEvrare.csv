@@ -1,25 +1,25 @@
-cp 0376*.png $DESTDIR/
-cp 0377*.png $DESTDIR/
-cp 0378*.png $DESTDIR/
-cp 0379*.png $DESTDIR/
-cp 0383*.png $DESTDIR/
-cp 0384*.png $DESTDIR/
-cp 0385*.png $DESTDIR/
-cp 0386*.png $DESTDIR/
-cp 0616*.png $DESTDIR/
-cp 0617*.png $DESTDIR/
-cp 0678*.png $DESTDIR/
-cp 0679*.png $DESTDIR/
-cp 0684*.png $DESTDIR/
-cp 0685*.png $DESTDIR/
-cp 0701*.png $DESTDIR/
-cp 0712*.png $DESTDIR/
-cp 0714*.png $DESTDIR/
-cp 0728*.png $DESTDIR/
-cp 0730*.png $DESTDIR/
-cp 0738*.png $DESTDIR/
-cp 0739*.png $DESTDIR/
-cp 0909*.png $DESTDIR/
-cp 0910*.png $DESTDIR/
-cp 0926*.png $DESTDIR/
-cp 0973*.png $DESTDIR/
+0376
+0377
+0378
+0379
+0383
+0384
+0385
+0386
+0616
+0617
+0678
+0679
+0684
+0685
+0701
+0712
+0714
+0728
+0730
+0738
+0739
+0909
+0910
+0926
+0973

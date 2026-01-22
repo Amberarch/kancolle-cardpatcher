@@ -1,10 +1,10 @@
-cp 0436*.png $DESTDIR/
-cp 0530*.png $DESTDIR/
-cp 0715*.png $DESTDIR/
-cp 0719*.png $DESTDIR/
-cp 0732*.png $DESTDIR/
-cp 0887*.png $DESTDIR/
-cp 0940*.png $DESTDIR/
-cp 0989*.png $DESTDIR/
-cp 0990*.png $DESTDIR/
-cp 1007*.png $DESTDIR/
+0436
+0530
+0715
+0719
+0732
+0887
+0940
+0989
+0990
+1007

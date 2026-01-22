@@ -1,4 +1,4 @@
-cp 0082*.png $DESTDIR/
-cp 0088*.png $DESTDIR/
-cp 0411*.png $DESTDIR/
-cp 0412*.png $DESTDIR/
+0082
+0088
+0411
+0412

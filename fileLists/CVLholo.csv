@@ -1,11 +1,11 @@
-cp 0117*.png $DESTDIR/
-cp 0157*.png $DESTDIR/
-cp 0296*.png $DESTDIR/
-cp 0297*.png $DESTDIR/
-cp 0318*.png $DESTDIR/
-cp 0380*.png $DESTDIR/
-cp 0381*.png $DESTDIR/
-cp 0382*.png $DESTDIR/
-cp 0396*.png $DESTDIR/
-cp 0408*.png $DESTDIR/
-cp 0930*.png $DESTDIR/
+0117
+0157
+0296
+0297
+0318
+0380
+0381
+0382
+0396
+0408
+0930
