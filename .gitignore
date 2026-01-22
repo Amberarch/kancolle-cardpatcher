@@ -5,6 +5,7 @@ tmp/
 patched/
 orig/
 cache/
+garbage/
 assets/ignore/*
 fileLists/shipinfo_emblem_class.txt
 fileLists/shipinfo_emblem_class.txt.b
