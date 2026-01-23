@@ -17,3 +17,7 @@ Open ![auto.sh](scripts/auto.sh) in your text editor and change line 3 to KCCach
 
 Run ![auto.sh](scripts/auto.sh). It should generate images in BannerMod. Once this is done, open KCCacheProxy and install the mod by selecting 'Add Local Mod' and picking 'BannerMod.mod.json'.
 
+
+## Mod Installation
+
+Download the [latest release](https://github.com/Amberarch/kancolle-cardpatcher/releases/) of the mod and unzip it. Open KCCacheProxy, select 'Add Local Mod', and open 'BannerMod.Mod.json'
