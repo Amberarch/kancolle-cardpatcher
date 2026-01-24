@@ -1,7 +1,7 @@
 # README kancolle-cardpatcher
 
 kancolle-cardpatcher is a collection of scripts used to patch Kantai Collection assets with KCCacheProxy. These scripts require [ffmpeg](https://ffmpeg.org/download.html). If you are using Windows you will also need bash shell. I recommend using [Git Bash](https://gitforwindows.org/). 
-(currently only patches common and rare destroyers)
+(currently only patches destroyers)
 
 ## Table of Contents
 
